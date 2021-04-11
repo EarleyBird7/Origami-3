@@ -1,0 +1,15 @@
+.origami{
+    flex:display;
+    justify-content: space-evenly;
+}
+
+h1{
+    border:solid;
+margin: 50px;
+padding: 5%;
+background-color:#a88ed6;
+}
+
+.origami{
+    background-color:#e0ffff;
+}
